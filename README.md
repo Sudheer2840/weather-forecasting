@@ -2,6 +2,10 @@
 
 An AI-based weather prediction system that uses historical weather data and machine learning to predict rainfall and determine the probability of rain.
 
+## Application Screenshot
+
+![AI Weather Forecasting Dashboard](screenshots/weather-dashboard.png)
+
 ## Project Overview
 
 This project analyzes historical weather data and uses machine learning models to predict rainfall and classify whether rain is likely.
