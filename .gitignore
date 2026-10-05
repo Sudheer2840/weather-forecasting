@@ -18,6 +18,8 @@ data/*.csv
 
 # Large trained models
 models/*.pkl
+!models/rain_classifier.pkl
+!models/random_forest_model.pkl
 
 # Environment files
 .env
